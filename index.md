@@ -8,7 +8,9 @@ Parcours Information Numérique
 Lycée de Borda, Dax, 40100
 
 ## Expériences professionnelles
-- **Septembre 2023 - aujourd'hui** : 
+- **Septembre 2023 - aujourd'hui** : Alternante chez Sud-Ouest, service documentation
+- **avril-mai 2023** : Stage chez Sud-Ouest, service documentation
+- 
 
 ## Compétences
 - Communication digitale
